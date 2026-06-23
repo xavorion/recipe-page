@@ -82,7 +82,7 @@ body {
   width: min(100%, 37.5rem);
 }
 /* Responsive for radius of image */
-@media (min-width: 25em) {
+@media (max-width: 43.75em) {
   .img-container img {
     border-radius: 1.25rem;
     margin-inline: 0;
