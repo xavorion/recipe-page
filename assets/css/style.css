@@ -79,10 +79,10 @@ body {
 }
 
 .img-container img {
-  width: clamp(23.4375rem, 40vw, 43.75rem);
+  width: min(100%, 37.5rem);
 }
 /* Responsive for radius of image */
-@media (min-width: 43.75em) {
+@media (min-width: 25em) {
   .img-container img {
     border-radius: 1.25rem;
   }
