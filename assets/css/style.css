@@ -90,7 +90,7 @@ body {
 /* TItle */
 h1 {
   font-family: var(--ff-young-serif);
-  font-size: clamp(calc(var(--fs-base) + 0.875rem), 2vh, 2rem);
+  font-size: clamp(calc(var(--fs-base) + 0.875rem), 5vw, calc(var(--fs-base) + 1.5rem));
   color: var(--color-stone-900);
   line-height: 100%;
   margin: 1.09375em 0;
