@@ -101,14 +101,11 @@ h1 {
 .instructions-container h2,
 .nutritions-container h2,{
   color: var(--color-brown-800);
-  margin: 1.09375em 0;
+  margin-block-end: 1.09375em;
   font-weight: 500;
   font-family: var(--ff-young-serif);
 }
 
-/* h4 {
-  margin-block-end: 1.09375rem;
-} */
 /* Descriptions */
 p,
 li {
@@ -127,11 +124,11 @@ li {
 .prep-container h2 {
   font-size: var(--fs-base);
   color: var(--color-rose-800);
+  margin-block-end: 1.09375rem;
 }
 
 
 /* nutrition container */
-.instructions-container,
 .nutritions-container p {
   margin: 1.09375rem 0;
 }
