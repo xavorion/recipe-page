@@ -174,8 +174,8 @@ tr td:first-child {
 }
 
 hr {
-  color: var(--color-stone-150);
   margin-block-end: 1.09375rem;
+  border: 1px solid var(--color-stone-150);
 }
 
 tr td:last-child {
