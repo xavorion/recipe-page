@@ -175,6 +175,7 @@ tr td:first-child {
 
 hr {
   color: var(--color-stone-150);
+  margin-block-end: 1.09375rem;
 }
 
 tr td:last-child {
