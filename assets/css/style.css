@@ -123,6 +123,10 @@ li {
   margin: 1.09375rem 0;
 }
 
+.prep-container h2 {
+  font-size: var(--fs-base);
+}
+
 
 /* nutrition container */
 .instructions-container,
@@ -137,7 +141,8 @@ li {
 }
 
 .prep-container span.strong-text,
-.instructions-container span.strong-text {
+.instructions-container span.strong-text,
+.nutritions-container table td.strong-text {
   font-weight: 700;
 }
 
