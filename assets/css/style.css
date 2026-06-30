@@ -104,10 +104,9 @@ h2 {
   font-family: var(--ff-young-serif);
 }
 
-h4 {
-  color: var(--color-rose-800);
+/* h4 {
   margin-block-end: 1.09375rem;
-}
+} */
 /* Descriptions */
 p,
 li {
@@ -125,6 +124,7 @@ li {
 
 .prep-container h2 {
   font-size: var(--fs-base);
+  color: var(--color-rose-800);
 }
 
 
